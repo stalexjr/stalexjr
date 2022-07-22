@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0080ff&text=%20woojin%20%20&height=200&fontSize=90&fontColor=ffffff)
   
-**✨Me✨**
+<h3>✨Me✨</h3>
 <br>
 <br>
 
@@ -25,7 +25,7 @@ blog | https://woojin-blog.tistory.com/
 <br>
 <br>
   
-**💻Tech Stack💻**
+<h3>💻Tech Stack💻</h3>
   
 <br>
 <br>

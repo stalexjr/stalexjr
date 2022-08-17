@@ -10,7 +10,7 @@ Hi There! I'm a frontEnd developer. 안녕하세요! 저는 프론트엔드 개�
 
 My main skills are HTML, CSS, JavaScirpt and React 제 메인 기술스택은 HTML, CSS, JavaScript 그리고 React 입니다.
 
-I'm a <span style="background-color:000">persistent person</span>, who study hard day and night for be a good devaloper 😉 저는 
+I'm a <span style="background-color:000">persistent person</span>, who study hard day and night for be a good devaloper 😉 저는 꾸준한 사람이 되기위해
 <br>
 <br>
 <br>

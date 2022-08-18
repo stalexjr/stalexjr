@@ -6,11 +6,11 @@
 <br>
 <br>
 
-Hi There! I'm a frontEnd developer. 안녕하세요! 저는 프론트엔드 개발자입니다.
+안녕하세요! 저는 프론트엔드 개발자입니다.
 
-My main skills are HTML, CSS, JavaScirpt and React 제 메인 기술스택은 HTML, CSS, JavaScript 그리고 React 입니다.
+제 메인 기술스택은 HTML, CSS, JavaScript 그리고 React 입니다.
 
-I'm a <span style="background-color:000">persistent person</span>, who study hard day and night for be a good devaloper 😉 저는 꾸준한 사람이 되기위해
+저의 무기는 꾸준함입니다. 이를 활용하여 밤낮으로 공부하는 좋은 개발자가 되겠습니다. 😉 
 <br>
 <br>
 <br>
